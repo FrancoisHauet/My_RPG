@@ -11,3 +11,6 @@ Projet effectué avec 3 autres personnes :
 - Hugo Maltese
 
 Vidéo Youtube du projet : https://www.youtube.com/watch?v=vry5CTbYkI0
+
+
+Pour en savoir plus sur le projet : https://francois-hauet.com/#work
