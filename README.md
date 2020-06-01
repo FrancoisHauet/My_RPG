@@ -10,4 +10,4 @@ Projet effectué avec 3 autres personnes :
 - Fabien Lopez
 - Hugo Maltese
 
-Vidéo Youtube du projet : 
+Vidéo Youtube du projet : https://www.youtube.com/watch?v=vry5CTbYkI0
